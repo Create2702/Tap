@@ -1,3 +1,3 @@
 # Tap
 
-App for just tap a button
+App to just tap a button
